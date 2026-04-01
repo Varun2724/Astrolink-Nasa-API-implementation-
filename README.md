@@ -89,7 +89,7 @@ Conducts **JUnit and Mockito and Integration Tests with Test Containers** on all
 
 To get started with the Nasa API Implementation project, follow these steps:--
 
-FOR STEPS CONTACT:- varungrvv@gmail.com :)
+FOR STEPS CONTACT:- varun2003patil@gmail.com :)
 
 <hr style="width:75%">
 

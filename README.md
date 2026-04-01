@@ -1,12 +1,11 @@
-# Nasa API Implementation 🚀
+# Astrolink - Nasa API Implementation 🚀
 
 ![nasa-api-logo](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/47a63e0c-1268-4527-a1bd-7dd854171c27)
 
 <hr style="width:75%">
 
 ## Introduction
-Welcome to the Nasa API Implementation project! This **full-stack web application** utilizes Nasa's API key to provide users with captivating Astronomy Picture Of The Day (APOD) and Mars Rover Photos. The project seamlessly integrates various technologies to deliver a robust and user-friendly experience.
-
+**Astrolink** is a meticulously designed full-stack web application that serves as a modern bridge to NASA's Open APIs. Built with **Spring Boot 3** and **Java**, this project elegantly integrates complex functionalities, delivering robust endpoints for accessing the captivating Astronomy Picture Of The Day (APOD) and exploring a variety of Mars Rover images (Curiosity, Opportunity, Spirit).
 
 Discover the NASA Astronomy picture of the day(apod) and Rover images from the mars explorations. You can choose...
 * one of three different mars rovers 
@@ -64,25 +63,25 @@ Conducts **JUnit and Mockito and Integration Tests with Test Containers** on all
 [**Try it out** 🌎](http://nasa-webapp-env.eba-bpm6gg2n.ap-south-1.elasticbeanstalk.com/nasa/home-page)
 
 #### Home-Page
-![home](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/65528a81-2f75-40b0-8881-11a1c0e3092d)
+![home](img/home.jpeg)
 
 #### Index-Page
-![index](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/55bff53e-f749-48f7-a85f-00fdb2d5287d)
+![index](img/index.jpeg)
 
 #### Astronomy Picture Of The Day( A P O D )
-![apod](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/fdc5fb92-59f0-487e-8e65-d784121a54d6)
+![apod](img/apod.jpeg)
 
 #### Mars Rover Page
-![rover](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/15723c32-57bc-4bb1-a2bf-e4344f3b8e55)
+![rover](img/rover.jpeg)
 
 #### Admin Page
-![admin](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/144c2bf8-4664-411f-9980-39677df0c6c9)
+![admin](img/admin.jpeg)
 
 #### Swagger Documentation Page
-![swagger](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/572d17a7-a77f-4ab4-acfb-ea84e4bf660e)
+![swagger](img/swagger.jpeg)
 
 #### Logout Page
-![logout](https://github.com/varungr-dev/Nasa-API-Implementation/assets/144204974/92e8dc5a-bd8b-4532-9831-131509ed4629)
+![logout](img/logout.jpeg)
 
 <hr style="width:75%">
 
